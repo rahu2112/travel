@@ -19,7 +19,7 @@ A simple travel booking system built using **Core PHP** and **MySQL**, allowing 
 
 - **Backend**: PHP
 - **Database**: MySQL
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS , Bootstep
 - **Server**: XAMPP / Apache
 
 
@@ -39,10 +39,6 @@ A simple travel booking system built using **Core PHP** and **MySQL**, allowing 
 ├── change-password.php # Change password
 ├── logout.php # Log out user
 ├── tms.sql # SQL database file
-
-yaml
-Copy
-Edit
 
 ---
 
